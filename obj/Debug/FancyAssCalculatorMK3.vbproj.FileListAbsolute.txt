@@ -1,0 +1,21 @@
+C:\Users\fbeckerleg\AppData\Local\Temporary Projects\FancyAssCalculatorMK3\bin\Debug\FancyAssCalculatorMK3.exe.config
+C:\Users\fbeckerleg\AppData\Local\Temporary Projects\FancyAssCalculatorMK3\bin\Debug\FancyAssCalculatorMK3.exe
+C:\Users\fbeckerleg\AppData\Local\Temporary Projects\FancyAssCalculatorMK3\bin\Debug\FancyAssCalculatorMK3.pdb
+C:\Users\fbeckerleg\AppData\Local\Temporary Projects\FancyAssCalculatorMK3\bin\Debug\FancyAssCalculatorMK3.xml
+C:\Users\fbeckerleg\AppData\Local\Temporary Projects\FancyAssCalculatorMK3\obj\Debug\FancyAssCalculatorMK3.Resources.resources
+C:\Users\fbeckerleg\AppData\Local\Temporary Projects\FancyAssCalculatorMK3\obj\Debug\FancyAssCalculatorMK3.vbproj.GenerateResource.Cache
+C:\Users\fbeckerleg\AppData\Local\Temporary Projects\FancyAssCalculatorMK3\obj\Debug\FancyAssCalculatorMK3.exe
+C:\Users\fbeckerleg\AppData\Local\Temporary Projects\FancyAssCalculatorMK3\obj\Debug\FancyAssCalculatorMK3.xml
+C:\Users\fbeckerleg\AppData\Local\Temporary Projects\FancyAssCalculatorMK3\obj\Debug\FancyAssCalculatorMK3.pdb
+C:\Users\fergu\Desktop\VBPrograms\FancyAssCalculatorMK3\FancyAssCalculatorMK3\obj\Debug\FancyAssCalculatorMK3.exe
+C:\Users\fergu\Desktop\VBPrograms\FancyAssCalculatorMK3\FancyAssCalculatorMK3\obj\Debug\FancyAssCalculatorMK3.xml
+C:\Users\fergu\Desktop\VBPrograms\FancyAssCalculatorMK3\FancyAssCalculatorMK3\obj\Debug\FancyAssCalculatorMK3.pdb
+C:\Users\fergu\Desktop\VBPrograms\FancyAssCalculatorMK3\FancyAssCalculatorMK3\bin\Debug\FancyAssCalculatorMK3.exe.config
+C:\Users\fergu\Desktop\VBPrograms\FancyAssCalculatorMK3\FancyAssCalculatorMK3\bin\Debug\FancyAssCalculatorMK3.exe
+C:\Users\fergu\Desktop\VBPrograms\FancyAssCalculatorMK3\FancyAssCalculatorMK3\bin\Debug\FancyAssCalculatorMK3.pdb
+C:\Users\fergu\Desktop\VBPrograms\FancyAssCalculatorMK3\FancyAssCalculatorMK3\bin\Debug\FancyAssCalculatorMK3.xml
+C:\Users\fergu\Desktop\VBPrograms\FancyAssCalculatorMK3\FancyAssCalculatorMK3\obj\Debug\FancyAssCalculatorMK3.vbproj.AssemblyReference.cache
+C:\Users\fergu\Desktop\VBPrograms\FancyAssCalculatorMK3\FancyAssCalculatorMK3\obj\Debug\FancyAssCalculatorMK3.vbproj.SuggestedBindingRedirects.cache
+C:\Users\fergu\Desktop\VBPrograms\FancyAssCalculatorMK3\FancyAssCalculatorMK3\obj\Debug\FancyAssCalculatorMK3.Resources.resources
+C:\Users\fergu\Desktop\VBPrograms\FancyAssCalculatorMK3\FancyAssCalculatorMK3\obj\Debug\FancyAssCalculatorMK3.vbproj.GenerateResource.cache
+C:\Users\fergu\Desktop\VBPrograms\FancyAssCalculatorMK3\FancyAssCalculatorMK3\obj\Debug\FancyAssCalculatorMK3.vbproj.CoreCompileInputs.cache
